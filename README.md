@@ -49,4 +49,4 @@ npm run dev
 
 4. **Inline SVGs**: Wallet icons (MetaMask, WalletConnect) use inline SVGs for reliability without external dependencies.
 
-5. **Tailwind Utility Classes**: Heavy use of utility classes prioritizes rapid development over semantic CSS. Component extraction keeps files manageable.
+5. **Tailwind Utility Classes**: Heavy use of utility classes prioritizes rapid development over semantic CSS.
